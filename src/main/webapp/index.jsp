@@ -5,6 +5,7 @@
   
   <h1>We are Deploying Web App in a apache tomcat container version 8!!</h1>
   <h3> We know how to use deploy to container plugin </h3>
+  <h3> We fixed maven issue. </h3>
   
 </body>
 </html>
